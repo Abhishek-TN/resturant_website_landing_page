@@ -1,7 +1,5 @@
 # Tasty Bites Café Restaurant Website
 
-![Tasty Bites Café](img/Screenshot (420).png)
-
 Welcome to Tasty Bites Café, where every bite tells a story! This repository contains the code for the Tasty Bites Café restaurant website.
 
 
